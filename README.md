@@ -20,7 +20,7 @@ Neste projeto utilizei o arduino,e para compilar o programa foi utilizado o IDE 
 
 # Instalação
 
-Para a instalação será nescessário o programa arduino para escrever e compilar a programação.O Fritzing software para a montagem, criação de esquemas e diagramas eletrônicos. Git desktop complemento ara melhor acesso ao GitHub onde poderá adicionar repositórios.
+Para a instalação será nescessário o programa arduino para escrever e compilar a programação.O Fritzing software para a montagem, criação de esquemas e diagramas eletrônicos. Git desktop complemento para melhor acesso ao GitHub onde poderá adicionar repositórios.
 
 # Créditos
  http://meetarduino.wordpress.com

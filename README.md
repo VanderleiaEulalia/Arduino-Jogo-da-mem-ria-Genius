@@ -3,11 +3,17 @@ O jogo é elaborado no arduino,desenvolvendo o raciocínio e a memorização.Sim
 
 
 # Componentes utilizados
+
 4 LED’s
+
 1 Buzzer
+
 8 Resistores 220Ω
+
 4 Botões
+
 1 Protoboard
+
 #define NOTE_D4  294
 #define NOTE_G4  392
 #define NOTE_A4  440

@@ -18,6 +18,18 @@ O jogo é elaborado no arduino,desenvolvendo o raciocínio e a memorização.Sim
 
 Neste projeto utilizei o arduino,e para compilar o programa foi utilizado o IDE (Integrated Development Environment),um aplicativo onde você pode escrever o programa e compilá-lo.
 
+# Instalação
+
+Para a instalação será nescessário o programa arduino para escrever e compilar a programação.O Fritzing software para a montagem, criação de esquemas e diagramas eletrônicos. Git desktop complemento ara melhor acesso ao GitHub onde poderá adicionar repositórios.
+
+# Créditos
+ http://meetarduino.wordpress.com
+ https://www.circuitar.com.br/tutoriais/programacao-para-arduino-primeiros-passos/
+ https://fritzing.org/home/
+ https://github.com/
+
+ 
+
 #define NOTE_D4  294
 #define NOTE_G4  392
 #define NOTE_A4  440

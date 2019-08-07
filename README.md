@@ -1,5 +1,11 @@
 # Arduino-Jogo-da-mem-ria-Genius
 O jogo é elaborado no arduino,desenvolvendo o raciocínio e a memorização.Simples e interessante envolvendo concentração para memorizar a ligação dos quatro leds correspondentes a quatro botões.Os botões serão acionados após o acendimento dos leds de acordo com a cor coincidente.Desenvolva habilidades de maneira divertida!
+#Componentes utilizados
+4 LED’s
+1 Buzzer
+8 Resistores 220Ω
+4 Botões
+1 Protoboard
 #define NOTE_D4  294
 #define NOTE_G4  392
 #define NOTE_A4  440

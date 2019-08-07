@@ -14,6 +14,10 @@ O jogo é elaborado no arduino,desenvolvendo o raciocínio e a memorização.Sim
 
 1 Protoboard
 
+# Compilador
+
+Neste projeto utilizei o arduino,e para compilar o programa foi utilizado o IDE (Integrated Development Environment),um aplicativo onde você pode escrever o programa e compilá-lo.
+
 #define NOTE_D4  294
 #define NOTE_G4  392
 #define NOTE_A4  440

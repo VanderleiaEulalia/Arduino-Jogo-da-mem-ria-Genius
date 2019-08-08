@@ -8,7 +8,7 @@
 <p>8 Resistores 220&Omega;</p>
 <p>4 Bot&otilde;es</p>
 <p>1 Protoboard</p>
-<img src="https://github.com/VanderleiaEulalia/Arduino-Jogo-da-mem-ria-Genius/blob/master/Projeto%20Fritzing%20Montagem.jpg" height="150" width="200">
+<img src="https://github.com/VanderleiaEulalia/Arduino-Jogo-da-mem-ria-Genius/blob/master/Projeto%20Fritzing%20Montagem.jpg" height="450" width="500">
 <ul>
 <li>&nbsp;Compilador</li>
 </ul>

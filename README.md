@@ -8,7 +8,7 @@
 <p>8 Resistores 220&Omega;</p>
 <p>4 Bot&otilde;es</p>
 <p>1 Protoboard</p>
-<img src="https://github.com/VanderleiaEulalia/Arduino-Jogo-da-mem-ria-Genius/blob/master/Projeto%20Fritzing%20Montagem.jpg" height="450" width="500">
+<p><a href="https://github.com/VanderleiaEulalia/Arduino-Jogo-da-mem-ria-Genius/blob/master/Projeto%20Fritzing%20Montagem.jpg" target="_blank" rel="noopener noreferrer"><img src="https://github.com/VanderleiaEulalia/Arduino-Jogo-da-mem-ria-Genius/raw/master/Projeto%20Fritzing%20Montagem.jpg" width="500" height="450" /></a></p>
 <ul>
 <li>&nbsp;Compilador</li>
 </ul>
@@ -20,5 +20,5 @@
 <ul>
 <li>&nbsp;Cr&eacute;ditos</li>
 </ul>
-<p><br /><a href="http://meetarduino.wordpress.com">meetarduino</a><br /><a href="https://www.circuitar.com.br/tutoriais/programacao-para-arduino-primeiros-passos/">circuitar</a><br /> <a href="https://fritzing.org/home/">fritzing</a><br /><br /></p>
-<p>&nbsp;</p>
+<p><br /><a href="http://meetarduino.wordpress.com/" rel="nofollow">meetarduino</a><br /><a href="https://www.circuitar.com.br/tutoriais/programacao-para-arduino-primeiros-passos/" rel="nofollow">circuitar</a><br /><a href="https://fritzing.org/home/" rel="nofollow">fritzing</a></p>
+<p><a href="https://github.com/Epaminondaslage/Como-montar-seu-README">Epaminondas lage como montar seu README</a></p>

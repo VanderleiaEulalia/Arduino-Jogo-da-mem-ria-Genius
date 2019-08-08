@@ -22,4 +22,3 @@
 </ul>
 <p><br /><a href="http://meetarduino.wordpress.com">meetarduino</a><br /><a href="https://www.circuitar.com.br/tutoriais/programacao-para-arduino-primeiros-passos/">circuitar</a><br /> <a href="https://fritzing.org/home/">fritzing</a><br /><br /></p>
 <p>&nbsp;</p>
-<p>#</p>
